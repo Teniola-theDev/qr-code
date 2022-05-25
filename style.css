@@ -18,8 +18,8 @@
   }
 
   .qr-container {
-    height: 600px;
-    width: 250px;
+    height: 550px;
+    width: 255px;
     padding: 20px;
     padding-top: 30px;
 
@@ -33,7 +33,7 @@
 
   .img-container {
     width: 220px;
-    height: 360px;
+    height: 330px;
     background: url("img/image-qr-code.png");
     background-size: cover;
     background-position: center;
@@ -43,7 +43,7 @@
 
   .text-container {
     width: 220px;
-    height: 240px;
+    height: 220px;
     display: flex;
     align-items: center;
     justify-content: center;
