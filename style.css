@@ -18,7 +18,7 @@
   }
 
   .qr-container {
-    height: 520px;
+    height: 600px;
     width: 250px;
     padding: 20px;
     padding-top: 30px;
@@ -32,8 +32,8 @@
   }
 
   .img-container {
-    width: 2200px;
-    height: 324px;
+    width: 220px;
+    height: 360px;
     background: url("img/image-qr-code.png");
     background-size: cover;
     background-position: center;
@@ -43,7 +43,7 @@
 
   .text-container {
     width: 220px;
-    height: 226px;
+    height: 240px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,7 +71,7 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 401px) and (max-width: 1000px) {
   .container {
     display: flex;
     align-items: center;
