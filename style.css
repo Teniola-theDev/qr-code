@@ -12,14 +12,14 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    min-width: 300px;
+    min-width: 250px;
 
     background-color: hsl(212, 45%, 89%);
   }
 
   .qr-container {
     height: 520px;
-    width: 320px;
+    width: 250px;
     padding: 20px;
     padding-top: 30px;
 
@@ -32,7 +32,7 @@
   }
 
   .img-container {
-    width: 260px;
+    width: 2200px;
     height: 324px;
     background: url("img/image-qr-code.png");
     background-size: cover;
@@ -42,7 +42,7 @@
   }
 
   .text-container {
-    width: 260px;
+    width: 220px;
     height: 226px;
     display: flex;
     align-items: center;
